@@ -1,0 +1,19 @@
+body{
+    font-size:0.3rem;
+
+}
+.main_li{
+    list-style-type: none;
+    width:80%;
+    height:0.8rem;
+    background-color: #00ff00;
+    border-radius: 0.08rem;
+    text-align: center;
+    margin:0 auto;
+}
+.main_li a{
+  line-height: 0.8rem;
+  text-decoration:none;
+   
+   
+}
